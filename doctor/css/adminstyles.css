@@ -1,0 +1,45 @@
+*
+{
+	margin:0;
+	padding:0;
+}
+body
+{
+	position:relative;
+	min-height:150vh;
+	background-color:#000000;
+}
+.col-sm-10
+{
+	
+	color:#0000ff;
+}
+#Side_Menu a
+{
+	color:#0000ff;
+}
+#Side_Menu .active a
+{
+	color:#ffffff;
+	background-color:#0000A0;
+	font-weight:bold;
+}
+#Side_Menu a:hover
+{
+	color:#ffffff;
+	background-color:#ADD8E6;
+	font-weight:bold;
+	display:block;
+}
+#footer
+{
+	padding:20px;
+	border-top: 1px solid black;
+	color:#000000;
+	background-color:#0000A0;
+	text-align:center;
+	position:absolute;
+	bottom:0;
+	width:100%;
+}
+		

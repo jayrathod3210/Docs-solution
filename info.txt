@@ -1,0 +1,23 @@
+          		||||||ADMIN SIDEMENU||||||
+		1234  password          
+          <li><a href="adminaccount.php">Admin Home</a></li>
+          <li><a href="admin.php">Admin Profile</a></li>
+          <li><a href="adminappview.php">Appointment</a> </li>
+          <li><a href="patientrecords.php">Patient Reports</a> </li>
+          <li><a href="admindoc.php">Doctor</a></li>
+          <li><a href="adminemp.php">Employee</a></li>
+          <li><a href="testtype.php">Test Type</a></li>
+          <li><a href="adminprescription.php">Prescription</a></li>
+          <li><a href="logout.php">Logout</a></li>
+
+		||||||DOCTOR SIDEMENU||||||
+		1112   100002
+          <li><a href="doctoraccount.php">Home</a></li>
+          <li><a href="docprofile.php">Doctors Profile</a></li>
+          <li><a href="docchangepass.php">Change Password</a></li>
+          <li><a href="appointmentrecords.php">Appointment Records</a> </li>
+          <li><a href="docpattreatment.php">Reports</a></li>
+          <li><a href="adminprescription.php">Prescription</a></li>
+          <li><a href="timings.php">Timings</a></li>
+          
+		
